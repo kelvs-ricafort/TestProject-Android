@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Project</string>
+
+    <string name="button_one">Button 1</string>
+    <string name="button_two">Button 2</string>
+    <string name="button_three">Button 3</string>
+    <string name="button_four">Button 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_pressed">Button %1$s Pressed</string>
+</resources>
